@@ -1,14 +1,27 @@
 Package: com.farishack.fortnitee
+
 Version: 0.0.1
+
 Architecture: iphoneos-arm
-Maintainer:faris <fars717@hotmail.com> 
-Depends: fortnite,  anemons 
+
+Maintainer:faris <fars717@hotmail.com
+> 
+Depends: fortnite,  anemons
+ 
 Filename: \controlnite.deb
-Size: 12699014 
+
+Size: 12699014
+ 
 MD5: 83bb68114c5a61b0b446d713e0ed42B8
+
 SHA1: 1e998d889e00b1a00cda2eb503bae97d6f1a5788
+
 SHA256: e4af3b58C180b2100391cf8ffe20e4e7a4ad99bb039abe992bfa9df12c614ac8
+
 Section: tweaks
+
 Description: a test tweak for my repo
-Author: crazyFaris <fars717@hotmail.com> 
+
+Author: crazyFaris <fars717@hotmail.com
+> 
 Name: fortnite tweaks
